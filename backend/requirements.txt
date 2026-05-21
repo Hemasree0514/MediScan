@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+numpy==1.26.4
+scipy==1.11.4
+scikit-image==0.22.0
+shapely==1.8.5.post1
+opencv-python==4.6.0.66
+opencv-contrib-python==4.6.0.66
+opencv-python-headless==4.6.0.66
+paddleocr==2.7.3
+paddlepaddle==2.6.2
